@@ -1,0 +1,5 @@
+This is new file.
+
+Some texts have been added here in order to find the difference between two different commits.
+
+Thanks
